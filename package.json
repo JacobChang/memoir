@@ -1,0 +1,27 @@
+{
+  "name": "memoir",
+  "description": "a combinator-oriented logger module",
+  "homepage": "http://github.com/JacobChang/memoir",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/JacobChang/memoir"
+  },
+  "version": "0.0.1",
+  "author": "Jacob Chang",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "mocha": "*",
+    "should": "*"
+  },
+  "keyword": [
+    "log",
+    "logger"
+  ],
+  "scripts": {
+    "test": "mocha"
+  },
+  "engines": {
+    "node": ">= 0.10.0"
+  }
+}
